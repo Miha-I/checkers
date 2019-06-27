@@ -1,0 +1,1 @@
+A sketch of the game, you can play with the computer, but the buttons and menus are not implemented
